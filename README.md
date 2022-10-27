@@ -1,3 +1,3 @@
 # IO
-Wojciech Strykowski 27.10.2022
+Wojciech Strykowski 26.10.2022
 Pierwsza Zmiana
